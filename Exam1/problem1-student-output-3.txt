@@ -1,0 +1,1 @@
+Input sentence contains 49 alphabetic characters and 0 digits.
